@@ -10,4 +10,9 @@ exit()
 print(1)
 print("This is 31st of Jan, 3 PM, DevOps Lab")
 exit()
+<<<<<<< main
 >>>>>>> Added a random pyhton file
+=======
+
+print("Adding this line locally")
+>>>>>>> Modifies file
