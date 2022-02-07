@@ -14,5 +14,6 @@ exit()
 >>>>>>> Added a random pyhton file
 =======
 
+print("Adding this line anyways to test merge coflicts in DevOps Lab 3")
 print("Adding this line locally")
 >>>>>>> Modifies file
