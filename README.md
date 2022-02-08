@@ -1,4 +1,5 @@
 # fictional-telegram
+Made more changes in bug branch... Not able to sop
 Whoa..
 Whoa..
 I got a few more changes.
@@ -7,4 +8,5 @@ DevOps Lab 2
 Lets us see
 More...
 
-Added line in bug branch
+Made a change in main
+Adding one more line in main
