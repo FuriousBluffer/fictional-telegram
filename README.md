@@ -16,3 +16,4 @@ Adding one more line in main
 Trying somethin' new
 
 newline
+new
