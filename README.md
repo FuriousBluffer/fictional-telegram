@@ -8,5 +8,5 @@ DevOps Lab 2
 Lets us see
 More...
 
-Made a change in main
+Made a change in bug branch
 Adding one more line in main
