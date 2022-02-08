@@ -12,3 +12,5 @@ Conflict resolved using GitKraken
 Made a change in bug branch
 Made further a change in main
 Adding one more line in main
+
+Somethin' new
